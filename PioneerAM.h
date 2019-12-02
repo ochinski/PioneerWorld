@@ -1,6 +1,5 @@
 /*
 * FILE : PioneerAM.h
-* PROJECT : PROG1385 - Assignment #4
 * PROGRAMMER : Robert Ochinski
 * FIRST VERSION : 2016-04-08
 * DESCRIPTION : This file hold's the class of the PioneerAM.h
